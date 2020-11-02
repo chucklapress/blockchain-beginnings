@@ -31,4 +31,6 @@ As my studies continue other files and folders will be added to chronicle my lea
 ## License
 All Resource url's provide information owned by the original sites publishers
 
-No claim is made to copy or use for any other purpose other than reference
+No claim is made to ownership or rights to copy or use for any material for any purpose
+
+other than viewing as a reference for users or clones of this repository.
