@@ -17,7 +17,16 @@ A collection of Python code that I am utilizing as steps in the process of study
 
 
 ## steps
+The beginning:
 
+Key Components of a Blockchain - A blockchain relies on two cryptographic primitives for many of its security properties:
+
+cryptographic hash functions and digital signatures.
+
+ 1)Hash Function and 2) Digital Signature
+
+ Hence level 1 and level 2
+ 
 ```python
 
 level1.py explores simple python hashing
