@@ -11,6 +11,8 @@ A collection of Python code that I am utilizing as steps in the process of study
 
 [ACT-IAT](https://www.actiac.org/system/files/Blockchain%20Playbook%20w%20Integration%20Phase%20FINAL_0.pdf)
 
+[DNI Suitability for Government ](https://www.dni.gov/files/PE/Documents/2018_AEP_Blockchain_and_Suitability_for_Government_Applications.pdf)
+
 
 
 
